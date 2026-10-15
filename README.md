@@ -3,9 +3,11 @@
 
 ### About
 
-Offensive security engineer focused on penetration testing.
-I work mostly on the offensive side: mapping attack surface, finding the flaw,
-and proving impact, then writing it up so it can actually be fixed.
+I'm an offensive security engineer, which is a formal way of saying I get paid
+to think like an attacker. I pull systems apart to understand them, because you
+can't defend what you've never seen fail. Every finding I write is meant to be
+read once and fixed, not filed away. Still learning something new every week,
+and keeping notes on all of it.
 
 <!-- Substitua cada URL_... pelo seu link real (o href dentro de href="..."). -->
 
