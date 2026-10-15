@@ -7,7 +7,9 @@ to think like an attacker. I pull systems apart to understand them, because you
 can't defend what you've never seen fail. Every finding I write is meant to be
 read once and fixed, not filed away. Still learning something new every week,
 and keeping notes on all of it.
+
 <br>
+
 <p align="center">
   <a href="https://leetcode.com/u/justino-f/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
   <a href="https://www.youtube.com/@justinoferr"><img src="https://img.shields.io/badge/Fukkatsu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
