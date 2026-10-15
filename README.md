@@ -1,5 +1,4 @@
 <h1 align="center">Renato Justino</h1>
-<p align="center">Offensive Security Engineer</p>
 
 ### About
 
