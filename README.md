@@ -1,18 +1,11 @@
 <h1 align="center">Renato Justino</h1>
-<p align="center">Offensive Security Engineer · Brazil</p>
+<p align="center">Offensive Security Engineer</p>
 
 ### About
 
 Offensive security engineer focused on penetration testing.
 I work mostly on the offensive side: mapping attack surface, finding the flaw,
 and proving impact, then writing it up so it can actually be fixed.
-
-- 🎯 Focus: pentesting, source-code review, exploit development
-- 🧠 Always studying: I keep a structured knowledge base of techniques and payloads
-- 🎥 I break down security concepts on my channel, **Fukkatsu**
-- 🌐 Available in EN, PT-BR and JP
-
-### Links
 
 <!-- Substitua cada URL_... pelo seu link real (o href dentro de href="..."). -->
 
