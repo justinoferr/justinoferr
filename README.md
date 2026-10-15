@@ -2,8 +2,8 @@
 
 ### About
 
-I'm an offensive security engineer, which is a formal way of saying I get paid
-to think like an attacker. I pull systems apart to understand them, because you
+I'm an offensive security engineer, which is a formal way of saying that my profession
+is to think like an attacker. I pull systems apart to understand them, because you
 can't defend what you've never seen fail. Every finding I write is meant to be
 read once and fixed, not filed away. Still learning something new every week,
 and keeping notes on all of it.
